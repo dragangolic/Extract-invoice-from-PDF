@@ -1,0 +1,26 @@
+,vend_num,vend_name,inv_dt,due_dt,inv_amt,net_amt,description
+0,700,United Parcel Service,2020-03-26,2020-06-26,75.00,75.00,Overnight document delivery *
+1,700,United Parcel Service,2020-03-27,2020-06-27,75.00,75.00,Postage *
+2,700,United Parcel Service,2020-07-26,2020-07-26,75.00,75.00,Overnight document delivery *
+3,700,"Software Technology, LLC",2020-08-20,2020-08-25,490.00,490.00,Software Maintenance Agreement Tabs3 *
+4,700,"Software Technology, LLC",2020-08-20,2020-08-25,239.00,239.00,Software Maintenance Agreement Tabs3 General Ledger *
+5,700,"Software Technology, LLC",2020-08-20,2020-08-25,239.00,239.00,Software Maintenance Agreement Tabs3 Accounts Payable *
+6,700,"Software Technology, LLC",2020-08-20,2020-08-25,239.00,239.00,Software Maintenance Agreement Tabs3 Trust Accounting *
+7,700,"Software Technology, LLC",2020-08-20,2020-08-25,800.00,800.00,Software Maintenance Agreement PracticeMaster (9 Users) *
+8,700,"Software Technology, LLC",2020-08-20,2020-08-25,105.00,105.00,Software Maintenance Agreement Tabs3 Taskbill *
+9,700,"Software Technology, LLC",2020-08-25,2020-08-30,205.00,205.00,Purchase Tabs3 Device Interface Program
+10,700,Clerk of the County Court,2020-04-26,2020-04-26,225.00,225.00,"Documentation Fee, Filing Fee, and Sheriff Service Fee *"
+11,700,Clerk of the District Court,2020-03-27,2020-03-27,75.00,75.00,Filing fee *
+12,700,Clerk of the District Court,2020-05-20,2020-05-20,75.00,75.00,Filing fee *
+13,700,Clerk of the District Court,2020-08-20,2020-08-20,150.00,150.00,Petition for Dissolution of Marriage Filing Fee
+14,700,NELCO,2020-07-26,2020-08-26,129.85,129.85,Check order for APS and TAS Checks *
+15,700,D & B Real Estate Management Company,2020-08-13,2020-08-13,10.00,10.00,Duplicate Key for building
+16,700,Thomson Reuters Payment Center,2020-04-25,2020-04-25,4.00,4.00,Online Legal Research *
+17,700,Thomson Reuters Payment Center,2020-05-24,2020-05-24,75.00,75.00,Online Legal Research *
+18,700,Thomson Reuters Payment Center,2020-06-25,2020-06-25,40.00,40.00,Online Legal Research *
+19,700,Thomson Reuters Payment Center,2020-07-29,2020-07-29,4.00,4.00,Online Legal Research *
+20,700,Thomson Reuters Payment Center,2020-07-30,2020-07-30,50.00,50.00,Online Legal Research *
+21,700,Thomson Reuters Payment Center,2020-07-30,2020-07-30,50.00,50.00,Online Legal Research *
+22,700,Thomson Reuters Payment Center,2020-07-30,2020-07-30,50.00,50.00,Online Legal Research *
+23,700,Thomson Reuters Payment Center,2020-07-30,2020-07-30,50.00,50.00,Online Legal Research *
+24,700,Sprint Local & Long Distance,2020-08-20,2020-08-25,68.96,68.96,November Cell Phone Charges 
